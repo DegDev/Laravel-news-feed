@@ -19,7 +19,7 @@
                         <form method="POST" action="/news">
                             @csrf
                             <div class="form-group">
-                                <label for="channel_id">Choose a channel</label>
+                                <label for="channel_id">Choose a category</label>
                                 <select name="category_id" id="category_id" class="form-control" required>
                                     <option value="">Choose one...</option>
                                     @foreach($categories as $category)
