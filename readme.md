@@ -1,5 +1,6 @@
 # Laravel-news-feed
 Реализуйте на laravel простую новостную ленту с простым управлением содержимого.<br>
+<br>
 Стек:<br> 
 MySQL 5.7<br> 
 Laravel 5.7 <br>
